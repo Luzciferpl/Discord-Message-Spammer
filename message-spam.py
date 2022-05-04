@@ -25,7 +25,7 @@ class Bonk:
     
 def main():
     if len(sys.argv) < 3:
-        print(f'Usage: py {sys.argv[0]} <TOKEN> <CHANNEL ID> "MESSAGE"')
+        print(f'Usage: py {sys.argv[0]} <OTU3OTYyOTYwOTg1MjYwMTMy.YkGahw.JbSmO-phAwMjidTXb1vcOwjm6GA> <970990417380270120> "MESSAGE"')
         sys.exit()
 
     token = sys.argv[1]
